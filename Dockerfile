@@ -83,4 +83,4 @@ ADD files/index.php /DATA/www/avatar/index.php
 # Entrypoint
 ADD start.sh /
 RUN chmod u+x /start.sh
-CMD /start.sH
+CMD /start.sh
